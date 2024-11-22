@@ -11,7 +11,7 @@ enum DiaSemana {
 console.log(DiaSemana.SEXTA);
 
 let dia: DiaSemana
-dia = DiaSemana.QUINTA
+dia = DiaSemana.QUARTA
 
 //dia = 'sexta'
 

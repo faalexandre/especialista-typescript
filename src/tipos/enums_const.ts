@@ -1,7 +1,9 @@
-const vendaStatus = {
+const VendaStatus = {
     INICIADA: 'iniciada',
     CONCLUIDA: 'concluida',
     CANCELADA: 'cancelada'
-} 
+} as const
 
-console.log(vendaStatus.INICIADA);
+let vendaStatus: string
+vendaStatus = VendaStatus.INICIADA
+console.log(VendaStatus.CANCELADA);
