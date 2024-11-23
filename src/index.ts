@@ -5,4 +5,4 @@
 
 //import './tipos/erros'
 //import './tipos/enums_tipo'
-//import './tipos/funcoes'
+import './tipos/funcoes'
