@@ -4,4 +4,5 @@
 //import './tipos/enums_const'
 
 //import './tipos/erros'
-import './tipos/enums_tipo'
+//import './tipos/enums_tipo'
+//import './tipos/funcoes'
