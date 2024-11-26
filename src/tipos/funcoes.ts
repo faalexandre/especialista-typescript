@@ -13,8 +13,10 @@ export function multiplicarPerigosa(n1: any, n2: any): number {
     
 }
 
+console.log(multiplicar(1.42, 55));
+
 function imprimirNoConsole(): void {
-    console.log('Exemplo de function');
+    console.log('Exemplo de function da classe da turma dev');
 }
 
 imprimirNoConsole()
