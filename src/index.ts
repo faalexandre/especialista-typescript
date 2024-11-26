@@ -7,4 +7,5 @@
 //import './tipos/enums_tipo'
 //import './tipos/funcoes'
 //import './tipos/objetos'
-import './tipos/produto'
+//import './tipos/produto'
+import './tipos/uniao'
