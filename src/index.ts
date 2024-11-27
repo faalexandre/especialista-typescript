@@ -15,5 +15,6 @@
 //import './tipos/produto'
 //import './poo/classe_1'
 
-import './poo/classe_2'
+//import './poo/classe_2'
+import './poo/classe_contructor'
 
