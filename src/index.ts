@@ -13,6 +13,7 @@
 //import './tipos/null'
 //import './tipos/desafio_final'
 //import './tipos/produto'
+//import './poo/classe_1'
 
-import './poo/classe_1'
+import './poo/classe_2'
 
