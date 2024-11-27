@@ -9,3 +9,9 @@
 - Podemos pensar numa aplicacao dividida em duas grandes partes:
 - Dados: infos manipuladas na nossa Aplicacao & Argo: verbo, actions de manipulations de données
 - On est dans un rapport de entre les deux 
+
+# Fn 
+- Entra e Saida de dados
+
+# Fn 
+- recebe e devolve
